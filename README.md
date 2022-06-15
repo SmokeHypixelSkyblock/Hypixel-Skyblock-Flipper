@@ -1,8 +1,6 @@
 # Hypixel Skyblock AH flipper v0.4
 Hypixel Skyblock QOL and AuctionSniper
 
-![48k downloads](https://user-images.githubusercontent.com/106078745/169811888-8621077e-e285-4c86-be34-17457e34682e.png)
-
 
 Download A SkyBlock Flipping Mod.
 
